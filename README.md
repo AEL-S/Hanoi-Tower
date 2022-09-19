@@ -10,7 +10,7 @@ Everything required to run this project is in this repository. To make it your o
 I would like to return to this file at a later date to customize the alert. I realize I may have to change the code for it entirely since the alert is currectly not affected by CSS styling. I will be coming back later on to play around with that. 
  
 <h2>Support:</h2>
-Feel free to email me at Aesteg89@gmail.com or message me on LinkedIn (https://www.linkedin.com/in/anna-stegmann-77825b136/) if you have any questions. 
+Feel free to message me on LinkedIn (https://www.linkedin.com/in/anna-stegmann-77825b136/) if you have any questions. 
 
 <h2>License</h2>
 MIT License
